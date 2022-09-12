@@ -1,0 +1,18 @@
+3
+8
+3
+14
+500
+480
+220
+110
+620
+870
+230
+550
+
+%Problem Number
+%Variable Number
+%Epsilon 10^(-y)
+%Epsilon for Penalty Function 10^(-y)
+%Initial Guess (xVariable Number)

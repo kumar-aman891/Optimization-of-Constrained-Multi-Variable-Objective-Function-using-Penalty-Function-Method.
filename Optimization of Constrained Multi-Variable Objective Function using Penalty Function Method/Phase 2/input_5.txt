@@ -1,0 +1,16 @@
+5
+2
+4
+-5
+10
+2
+3
+
+
+
+%Problem Number
+%Variable Number
+%Epsilon 10^(-y)
+%Lower Limit
+%Upper Limit
+%Upper Limt (x Number of variables)

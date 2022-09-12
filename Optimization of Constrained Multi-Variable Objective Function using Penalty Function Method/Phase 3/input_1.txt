@@ -1,0 +1,11 @@
+1
+2
+3
+5
+9
+3
+%Problem Number
+%Variable Number
+%Epsilon 10^(-y)
+%Epsilon for Penalty Function 10^(-y)
+%Initial Guess (xVariable Number)
